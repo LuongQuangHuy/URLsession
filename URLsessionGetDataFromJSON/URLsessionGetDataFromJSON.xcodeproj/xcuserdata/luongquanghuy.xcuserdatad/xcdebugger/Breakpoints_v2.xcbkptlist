@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7101C79A-2F0A-46D6-AF3D-B7096173AE14"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08FF180E-47BF-4C86-86D3-E182F0D71AB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "URLsessionGetDataFromJSON/CustomCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CustomCellTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "08FF180E-47BF-4C86-86D3-E182F0D71AB0 - 4b7d7ae2a50d61ee"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "URLsessionGetDataFromJSON.CustomCellTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; URLsessionGetDataFromJSON.CustomCellTableViewCell"
+                  moduleName = "URLsessionGetDataFromJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luongquanghuy/Desktop/XcodeProjects/HomeWorkAndGit/HomeWork/URLsessionGetDataFromJSON/URLsessionGetDataFromJSON/CustomCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "08FF180E-47BF-4C86-86D3-E182F0D71AB0 - 80938608bac78f60"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "URLsessionGetDataFromJSON.CustomCellTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; URLsessionGetDataFromJSON.CustomCellTableViewCell"
+                  moduleName = "URLsessionGetDataFromJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luongquanghuy/Desktop/XcodeProjects/HomeWorkAndGit/HomeWork/URLsessionGetDataFromJSON/URLsessionGetDataFromJSON/CustomCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "08FF180E-47BF-4C86-86D3-E182F0D71AB0 - 23b61b341e906b28"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "URLsessionGetDataFromJSON.CustomCellTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;URLsessionGetDataFromJSON.CustomCellTableViewCell&gt;"
+                  moduleName = "URLsessionGetDataFromJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luongquanghuy/Desktop/XcodeProjects/HomeWorkAndGit/HomeWork/URLsessionGetDataFromJSON/URLsessionGetDataFromJSON/CustomCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "08FF180E-47BF-4C86-86D3-E182F0D71AB0 - 4360efbc73b9663b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "URLsessionGetDataFromJSON.CustomCellTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;URLsessionGetDataFromJSON.CustomCellTableViewCell&gt;"
+                  moduleName = "URLsessionGetDataFromJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luongquanghuy/Desktop/XcodeProjects/HomeWorkAndGit/HomeWork/URLsessionGetDataFromJSON/URLsessionGetDataFromJSON/CustomCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "08FF180E-47BF-4C86-86D3-E182F0D71AB0 - cd0223e280b94bd5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "URLsessionGetDataFromJSON.CustomCellTableViewCell.__deallocating_deinit"
+                  moduleName = "URLsessionGetDataFromJSON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luongquanghuy/Desktop/XcodeProjects/HomeWorkAndGit/HomeWork/URLsessionGetDataFromJSON/URLsessionGetDataFromJSON/CustomCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
